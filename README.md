@@ -1,25 +1,20 @@
 
-
-
 ![images (1) (1)](https://user-images.githubusercontent.com/79866006/158033705-572f3390-ad06-47b0-892c-64280d925da9.png)
-
-
-<p align="center"> 
-  
+<p align="center">   
   <a href="https://github.com/TYP-Coding-Class" alt="TYP coding Class">
-        <img src="https://img.shields.io/badge/GitHub-TYP Coding Class-93b023?&style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-TYP Coding Class-93b023?&style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://docs.github.com/en/get-started/quickstart/hello-world" alt="Github Docs sub site">
         <img src="https://img.shields.io/badge/sub_web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
  <a href="https://github.com/github/docs" alt="Github Docs">
-        <img src="https://img.shields.io/badge/Creator-Github Docs-93b023?&style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-Github Docs-93b023?&style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://docs.github.com/en" alt="Github Docs site">
-        <img src="https://img.shields.io/badge/main_web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
-  
+        <img src="https://img.shields.io/badge/main_web-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  
 </p>  
-  
- <p align="center"><b>
+
+
+ <h1 align="center"><br /><b>
 How To Open a Github Account step by step 
-  </b></p>
+  </b><br /><br /><br /></h1>
 
 # Introduction
 
@@ -211,9 +206,17 @@ For more information about the power of branches and pull requests, see "<a href
 :pencil: All Thanks :pray: and Stars and Medals :trophy: goes to <a href="https://github.com/github/docs" target="_blank">GitHub Docs</a>
 
 
+ ## Quick Notice
+ 
+ :memo:
+:pencil: **TYP Coding Class** is all about educating Newbies Venturing into Programming.
+
+To know more about **TYP Coding Class**  visit  <a href="https://github.com/TYP-Coding-Class/TYP-Coding-Class" target="_blank">Here.</a>
 
 
 
+:memo:
+:pencil: Dont forget to give a Star ⭐ if you like my Work.
 
 
 
